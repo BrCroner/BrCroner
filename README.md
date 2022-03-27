@@ -5,13 +5,16 @@ Desenvolvedor Web / Designer Gráfico</p>
 <p align="center">  :construction:  [ <a href="www.croner.com.br" target="_blank">croner.com.br</a> ]  :construction: </p>
 
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Sobre mim
-> Me chamo **Croner**! Sou desenvolvedor web e designer gráfico. Atualmente trabalho na área de suporte da Câmara dos Deputados contudo pretendo atuar na área de desenvolvimento.
+> Me chamo **Croner**! Sou desenvolvedor web e designer gráfico. Atualmente trabalho na área de suporte da Câmara dos Deputados.
 
 ### :mortar_board: Formação
 > Gestão da Tecnologia da Informação | UNIP - 2016
 > 
 ### :earth_americas: Idioma 
 > Inglês: Excelente compreensão da língua, tanto na audição quanto na leitura. Pretendo aprimorar a escrita e fala. Diariamente escuto podcast em inglês.
+
+### :dart: Objetivo
+> Desejo atuar na área de desenvolvimento. Possuo muita determinação e força de vontade para aprender e melhorar.  
 
 ### :art: Minhas ferramentas
                                                                                                          
