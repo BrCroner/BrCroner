@@ -67,7 +67,7 @@ Desenvolvedor Web / Designer Gráfico</p>
 | DATA        | CLIENTE         | URL                                              |
 | :---        |    :----:       |    :----:                                        |
 | 2020        | BankOn          | https://github.com/BrCroner/BankOn               |
-| ??/??/??    | Meu portfólio   | :construction: www.croner.com.br  :construction: |
+| 2022        | Meu portfólio   | :construction: www.croner.com.br  :construction: |
   
   
 
