@@ -38,7 +38,7 @@ Desenvolvedor Web / Designer Gráfico</p>
 <details>
 <summary>:books: Cursos </summary>
    
-| CONCLUÍDOS                                                         | PLATAFORMA                                                                          | CARGA HORÁRIA |
+| CONCLUÍDOS                                                         | URL                                                                                 | CARGA HORÁRIA |
 | :---                                                               |    :----:                                                                           |    :----:     |
 | HTML, CSS, Sass, UX/UI, Illustrator, Photoshop, Logo               | https://teamtreehouse.com/brcroner                                                  | 20 horas      |
 | Advanced CSS and Sass: Flexbox, Grid, Animations and More!         | https://www.udemy.com/course/advanced-css-and-sass/                                 | 28 horas      |
