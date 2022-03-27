@@ -83,7 +83,7 @@ Desenvolvedor Web / Designer Gráfico</p>
 
 | FRAMEWORK   | PACOTES                          | DESCRIÇÃO             | URL                                                 |
 | :---        | :----:                           | :----:                | :----:                                              |
-| VUE.js      | axios, vue-router e json-server  | Lista de Tarefas      | https://github.com/BrCroner/vue-rotas/tree/master   |
+| VUE.js      | axios, vue-router e json-server  | Lista de Tarefas      | https://github.com/BrCroner/vue-rotas               |
 | VUE.js      | vue-router                       | Jogo Monster Slayer   | https://github.com/BrCroner/monster-slayer          |
 
 
