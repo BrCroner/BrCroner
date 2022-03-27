@@ -2,7 +2,7 @@
 
 <p align="center">Bruno <b>Croner</b> <br>
 Desenvolvedor Web / Designer Gráfico</p>
-<p align="center">[ <a href="www.croner.com.br" target="_blank">croner.com.br</a> ]</p>
+<p align="center">  :construction:  [ <a href="www.croner.com.br" target="_blank">croner.com.br</a> ]  :construction: </p>
 
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Sobre mim
 Me chamo **Croner**! Sou desenvolvedor web e designer gráfico. 
