@@ -64,9 +64,12 @@ Me chamo **Croner**! Sou desenvolvedor web e designer gráfico.
           Estou trabalhando para ampliar minha lista de projetos realizados.
   </p>
 
-| DATA        | CLIENTE         | URL           |
-| :---        |    :----:       |    :----:     |
-| ??/??/??    | Meu portfólio   | www.croner.com.br   |
+| DATA        | CLIENTE         | URL                                              |
+| :---        |    :----:       |    :----:                                        |
+| 2020        | BankOn          | https://github.com/BrCroner/BankOn               |
+| ??/??/??    | Meu portfólio   | :construction: www.croner.com.br  :construction: |
+  
+  
 
 </details>
 
