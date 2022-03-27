@@ -35,7 +35,7 @@ Me chamo **Croner**! Sou desenvolvedor web e designer gráfico.
 <details>
 <summary>:books: Cursos </summary>
   
-| CURSOS CONCLUÍDOS                                                  | PLATAFORMA                          | CARGA HORÁRIA |
+| CONCLUÍDOS                                                         | PLATAFORMA                          | CARGA HORÁRIA |
 | :---                                                               |    :----:                           |    :----:     |
 | HTML, CSS, Sass, UX/UI, Illustrator, Photoshop, Logo               | https://teamtreehouse.com/brcroner  | 20 horas      |
 | Advanced CSS and Sass: Flexbox, Grid, Animations and More!         | https://udemy.com                   | 28 horas      |
