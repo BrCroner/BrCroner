@@ -5,7 +5,7 @@ Desenvolvedor Web / Designer Gráfico</p>
 <p align="center">  :construction:  [ <a href="www.croner.com.br" target="_blank">croner.com.br</a> ]  :construction: </p>
 
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Sobre mim
-Me chamo **Croner**! Sou desenvolvedor web e designer gráfico. 
+> Me chamo **Croner**! Sou desenvolvedor web e designer gráfico. Atualmente trabalho na área de suporte da Câmara dos Deputados contudo pretendo atuar na área de desenvolvimento.
 
 ### :mortar_board: Formação
 > Gestão da Tecnologia da Informação | UNIP - 2016
@@ -81,10 +81,11 @@ Me chamo **Croner**! Sou desenvolvedor web e designer gráfico.
   </p>
   
 
-| FRAMEWORK   | PACOTES                          | DESCRIÇÃO             | URL           |
-| :---        | :----:                           | :----:                | :----:        |
-| VUE.js      | axios, vue-router e json-server  | Lista de Tarefas      | Here's this   |
-| VUE.js      | vue-router                       | Jogo Monster Slayer   | Here's this   |
+| FRAMEWORK   | PACOTES                          | DESCRIÇÃO             | URL                                                 |
+| :---        | :----:                           | :----:                | :----:                                              |
+| VUE.js      | axios, vue-router e json-server  | Lista de Tarefas      | https://github.com/BrCroner/vue-rotas/tree/master   |
+| VUE.js      | vue-router                       | Jogo Monster Slayer   | https://github.com/BrCroner/monster-slayer          |
+
 
 </details>
 
