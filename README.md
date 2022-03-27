@@ -14,7 +14,7 @@ Desenvolvedor Web / Designer Gráfico</p>
 > Inglês: Excelente compreensão da língua, tanto na audição quanto na leitura. Pretendo aprimorar a escrita e fala. Diariamente escuto podcast em inglês.
 
 ### :dart: Objetivo
-> Desejo atuar na área de desenvolvimento. Possuo muita determinação e força de vontade para aprender e melhorar.  
+> Desejo atuar na área de desenvolvimento web. Possuo a capacidede de aprender de forma autonoma, por meio de pesquisa e prática.
 
 ### :art: Minhas ferramentas
                                                                                                          
