@@ -38,13 +38,14 @@ Desenvolvedor Web / Designer Gráfico</p>
 <details>
 <summary>:books: Cursos </summary>
    
-| CONCLUÍDOS                                                         | URL                                                                                 | CARGA HORÁRIA |
-| :---                                                               |    :----:                                                                           |    :----:     |
-| HTML, CSS, Sass, UX/UI, Illustrator, Photoshop, Logo               | https://teamtreehouse.com/brcroner                                                  | 20 horas      |
-| Advanced CSS and Sass: Flexbox, Grid, Animations and More!         | https://www.udemy.com/course/advanced-css-and-sass/                                 | 28 horas      |
-| Beginner JavaScript                                                | https://beginnerjavascript.com/                                                     | 15 horas      |
-| JavaScript30                                                       | https://javascript30.com/                                                           | 15 horas      |
-| Git a Web Developer Job: Mastering the Modern Workflow             | https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow/ | 16 horas      |
+| CONCLUÍDOS                                                  | URL                                                                                 | CARGA HORÁRIA |
+| :---                                                        |    :----:                                                                           |    :----:     |
+| HTML, CSS, Sass, UX/UI, Illustrator, Photoshop, Logo        | https://teamtreehouse.com/brcroner                                                  | 20 horas      |
+| Advanced CSS and Sass: Flexbox, Grid, Animations and More!  | https://www.udemy.com/course/advanced-css-and-sass/                                 | 28 horas      |
+| The Modern JavaScript Bootcamp                              | https://www.udemy.com/course/modern-javascript                                      | 29,5 horas    |
+| Beginner JavaScript                                         | https://beginnerjavascript.com/                                                     | 15 horas      |
+| JavaScript30                                                | https://javascript30.com/                                                           | 15 horas      |
+| Git a Web Developer Job: Mastering the Modern Workflow      | https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow/ | 16 horas      |
   
 </details>
 
