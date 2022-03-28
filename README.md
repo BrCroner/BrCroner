@@ -80,7 +80,7 @@ Desenvolvedor Web / Designer Gráfico</p>
 <details>
   <summary>:floppy_disk: Exercícios</summary>
   <p>
-          O hábito faz o monge. Realizo atividades de forma regular para ajudar a fixar a matéria.
+          Realizo atividades de forma regular para ajudar a fixar a matéria.
   </p>
   
 
