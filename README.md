@@ -92,15 +92,6 @@ Desenvolvedor Web / Designer Gráfico</p>
 
 </details>
 
-###  📫 Contato 
-
-
-<a href="mailto:br.croner@gmail.com?subject=Contato GitHub">
-  <img src="hhttps://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/croner/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
 
 
 
