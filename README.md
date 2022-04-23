@@ -54,10 +54,13 @@ Desenvolvedor Web / Designer Gráfico</p>
           Estou trabalhando para ampliar minha lista de projetos realizados.
   </p>
 
-| CURSANDO                                                           | URL                                                       | CARGA HORÁRIA |
-| :---                                                               |    :----:                                                 |    :----:     |
-| Vue - The Complete Guide (incl. Router & Composition API)          | https://www.udemy.com/course/vuejs-2-the-complete-guide/  | 32 horas      |
-| Understanding TypeScript - 2021 Edition - Maximilian Schwarzmüller | https://www.udemy.com/course/understanding-typescript     | 15 horas      |
+| CURSANDO                                                           | URL                                                               | CARGA HORÁRIA |
+| :---                                                               |    :----:                                                         |    :----:     |
+| Java 2022 COMPLETO: Do Zero ao Profissional + Projetos!            | https://www.udemy.com/course/fundamentos-de-programacao-com-java/ | 77 horas      |  
+| Vue - The Complete Guide (incl. Router & Composition API)          | https://www.udemy.com/course/vuejs-2-the-complete-guide/          | 32 horas      |
+| Understanding TypeScript - 2021 Edition - Maximilian Schwarzmüller | https://www.udemy.com/course/understanding-typescript             | 15 horas      |
+  
+  
 
 </details>
 
