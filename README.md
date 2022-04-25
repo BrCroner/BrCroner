@@ -37,14 +37,17 @@ Desenvolvedor Web / Designer Gráfico</p>
 <details>
 <summary>:books: Cursos </summary>
    
-| CONCLUÍDOS                                                  | URL                                                                                 | CARGA HORÁRIA |
-| :---                                                        |    :----:                                                                           |    :----:     |
-| HTML, CSS, Sass, UX/UI, Illustrator, Photoshop, Logo        | https://teamtreehouse.com/brcroner                                                  | 20 horas      |
-| Advanced CSS and Sass: Flexbox, Grid, Animations and More!  | https://www.udemy.com/course/advanced-css-and-sass/                                 | 28 horas      |
-| The Modern JavaScript Bootcamp                              | https://www.udemy.com/course/modern-javascript                                      | 29,5 horas    |
-| Beginner JavaScript                                         | https://beginnerjavascript.com/                                                     | 15 horas      |
-| JavaScript30                                                | https://javascript30.com/                                                           | 15 horas      |
-| Git a Web Developer Job: Mastering the Modern Workflow      | https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow/ | 16 horas      |
+| CONCLUÍDOS                                                 | URL                                                                                 | CARGA HORÁRIA |
+| :---                                                       |    :----:                                                                           |    :----:     |
+| Vue - The Complete Guide (incl. Router & Composition API)  | https://www.udemy.com/course/vuejs-2-the-complete-guide/                            | 32 horas      |
+| Curso Análise Orientada a Objetos                          | https://www.softblue.com.br/                                                        | 20 horas      |
+| Curso Lógica de Programação                                | https://www.softblue.com.br/                                                        | 20 horas      |
+| Advanced CSS and Sass: Flexbox, Grid, Animations and More! | https://www.udemy.com/course/advanced-css-and-sass/                                 | 28 horas      |
+| The Modern JavaScript Bootcamp                             | https://www.udemy.com/course/modern-javascript                                      | 29,5 horas    |
+| Beginner JavaScript                                        | https://beginnerjavascript.com/                                                     | 15 horas      |
+| JavaScript30                                               | https://javascript30.com/                                                           | 15 horas      |
+| Git a Web Developer Job: Mastering the Modern Workflow     | https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow/ | 16 horas      |
+| HTML, CSS, Sass, UX/UI, Illustrator, SEO Tools, Logo       | https://teamtreehouse.com/brcroner                                                  | 40 horas      |
   
 </details>
 
@@ -54,14 +57,12 @@ Desenvolvedor Web / Designer Gráfico</p>
           Estou trabalhando para ampliar minha lista de projetos realizados.
   </p>
 
-| CURSANDO                                                           | URL                                                               | CARGA HORÁRIA |
-| :---                                                               |    :----:                                                         |    :----:     |
-| Java 2022 COMPLETO: Do Zero ao Profissional + Projetos!            | https://www.udemy.com/course/fundamentos-de-programacao-com-java/ | 77 horas      |  
-| Vue - The Complete Guide (incl. Router & Composition API)          | https://www.udemy.com/course/vuejs-2-the-complete-guide/          | 32 horas      |
-| Understanding TypeScript - 2021 Edition - Maximilian Schwarzmüller | https://www.udemy.com/course/understanding-typescript             | 15 horas      |
+| CURSANDO                                                           | URL                                                                   | CARGA HORÁRIA |
+| :---                                                               |    :----:                                                             |    :----:     |
+| Java Programming Masterclass covering Java 11 & Java 17            | https://www.udemy.com/course/java-the-complete-java-developer-course/ | 80 horas      |  
+| Java 2022 COMPLETO: Do Zero ao Profissional + Projetos!            | https://www.udemy.com/course/fundamentos-de-programacao-com-java/     | 77 horas      |  
+| Understanding TypeScript - 2021 Edition - Maximilian Schwarzmüller | https://www.udemy.com/course/understanding-typescript                 | 15 horas      |
   
-  
-
 </details>
 
 <details>
@@ -74,24 +75,19 @@ Desenvolvedor Web / Designer Gráfico</p>
 | :---        |    :----:       |    :----:                                        |
 | 2020        | BankOn          | https://github.com/BrCroner/BankOn               |
 | 2022        | Meu portfólio   | :construction: www.croner.com.br  :construction: |
-  
-  
 
 </details>
-
 
 <details>
   <summary>:floppy_disk: Exercícios</summary>
   <p>
           Realizo atividades de forma regular para ajudar a fixar a matéria.
   </p>
-  
 
 | FRAMEWORK   | PACOTES                          | DESCRIÇÃO             | URL                                                 |
 | :---        | :----:                           | :----:                | :----:                                              |
 | VUE.js      | axios, vue-router e json-server  | Lista de Tarefas      | https://github.com/BrCroner/vue-rotas               |
 | VUE.js      | vue-router                       | Jogo Monster Slayer   | https://github.com/BrCroner/monster-slayer          |
-
 
 </details>
 
