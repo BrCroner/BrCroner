@@ -40,6 +40,7 @@ Desenvolvedor Web / Designer Gráfico</p>
 | CONCLUÍDOS                                                 | URL                                                                                 | CARGA HORÁRIA |
 | :---                                                       |    :----:                                                                           |    :----:     |
 | Vue - The Complete Guide (incl. Router & Composition API)  | https://www.udemy.com/course/vuejs-2-the-complete-guide/                            | 32 horas      |
+| Curso SQL Completo                                         | https://www.softblue.com.br/                                                        | 20 horas      |
 | Curso Análise Orientada a Objetos                          | https://www.softblue.com.br/                                                        | 20 horas      |
 | Curso Lógica de Programação                                | https://www.softblue.com.br/                                                        | 20 horas      |
 | Advanced CSS and Sass: Flexbox, Grid, Animations and More! | https://www.udemy.com/course/advanced-css-and-sass/                                 | 28 horas      |
