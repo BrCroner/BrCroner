@@ -11,7 +11,7 @@ Desenvolvedor Web / Designer Gráfico</p>
 > Gestão da Tecnologia da Informação | UNIP - 2016
 > 
 ### :earth_americas: Idioma 
-> Inglês: Excelente compreensão da língua, tanto na audição quanto na leitura. Pretendo aprimorar a escrita e fala. Diariamente escuto podcast em inglês.
+> Inglês: Excelente compreensão da língua, tanto na audição quanto na leitura.
 
 ### :dart: Objetivo
 > Desejo atuar na área de desenvolvimento web. Possuo a capacidede de aprender de forma autonoma, por meio de pesquisa e prática.
