@@ -23,7 +23,15 @@ Desenvolvedor Web / Designer Gráfico</p>
 ### :dart: Objetivo
 > Atuar na área de desenvolvimento web. Possuo curiosidade e impeto para aprender e buscar soluções.
 
+### :rocket: Meus projetos
+> Comprometido em ampliar minha lista de projetos realizados.
 
+| DATA        | CLIENTE         | URL                                              |
+| :---        |    :----:       |    :----:                                        |
+| 2020        | BankOn          | https://github.com/BrCroner/BankOn               |
+| 2022        | Meu portfólio   | :construction: www.croner.com.br  :construction: |
+
+  
 <details>
 <summary>:books: Cursos </summary>
    
@@ -52,19 +60,6 @@ Desenvolvedor Web / Designer Gráfico</p>
 | Java 2022 COMPLETO: Do Zero ao Profissional + Projetos!            | https://www.udemy.com/course/fundamentos-de-programacao-com-java/     | 77 horas      |  
 | Understanding TypeScript - 2021 Edition - Maximilian Schwarzmüller | https://www.udemy.com/course/understanding-typescript                 | 15 horas      |
   
-</details>
-
-<details>
-  <summary>:rocket: Meus projetos </summary>
-  <p>
-          Estou trabalhando para ampliar minha lista de projetos realizados.
-  </p>
-
-| DATA        | CLIENTE         | URL                                              |
-| :---        |    :----:       |    :----:                                        |
-| 2020        | BankOn          | https://github.com/BrCroner/BankOn               |
-| 2022        | Meu portfólio   | :construction: www.croner.com.br  :construction: |
-
 </details>
 
 <details>
