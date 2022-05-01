@@ -6,8 +6,9 @@ Desenvolvedor Web / Designer Gráfico</p>
 
 <div align="center">
   <a href="https://github.com/BrCroner">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brcroner&show_icons=true&theme=green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brcroner&layout=compact&langs_count=7&theme=green"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brcroner&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+    &nbsp
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brcroner&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
 
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Sobre mim
@@ -20,7 +21,7 @@ Desenvolvedor Web / Designer Gráfico</p>
 > Inglês: Excelente compreensão da língua, tanto na audição quanto na leitura.
 
 ### :dart: Objetivo
-> Desejo atuar na área de desenvolvimento web. Possuo a capacidede de aprender de forma autonoma, por meio de pesquisa e prática.
+> Atuar na área de desenvolvimento web. Possuo curiosidade e impeto para aprender e buscar soluções.
 
 
 <details>
@@ -43,9 +44,7 @@ Desenvolvedor Web / Designer Gráfico</p>
 
 <details>
   <summary>🌱 Aprendendo</summary>
-  <p>
-          Estou trabalhando para ampliar minha lista de projetos realizados.
-  </p>
+  <p>Estou trabalhando para ampliar minha lista de projetos realizados.</p>
 
 | CURSANDO                                                           | URL                                                                   | CARGA HORÁRIA |
 | :---                                                               |    :----:                                                             |    :----:     |
