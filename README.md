@@ -11,7 +11,7 @@ Desenvolvedor Web / Designer Gráfico</p>
 </div>
 
 ## Sobre mim
-Me chamo **Croner**! Sou desenvolvedor web e designer gráfico. Atualmente trabalho na área de suporte da Câmara dos Deputados.
+Me chamo Bruno **Croner**! Sou desenvolvedor web e designer gráfico. Atualmente trabalho na área de suporte da Câmara dos Deputados.
 
 ### Formação
 Gestão da Tecnologia da Informação | UNIP - 2016
