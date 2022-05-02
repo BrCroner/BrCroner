@@ -6,8 +6,8 @@ Desenvolvedor Web / Designer Gráfico</p>
 
 <div align="center">
   <a href="https://github.com/BrCroner">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brcroner&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brcroner&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+ <img height="155em" src="https://github-readme-stats.vercel.app/api?username=brcroner&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brcroner&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
 
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Sobre mim
