@@ -10,19 +10,19 @@ Desenvolvedor Web / Designer Gráfico</p>
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brcroner&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
 
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Sobre mim
+## Sobre mim
 > Me chamo **Croner**! Sou desenvolvedor web e designer gráfico. Atualmente trabalho na área de suporte da Câmara dos Deputados.
 
-### :mortar_board: Formação
+### Formação
 > Gestão da Tecnologia da Informação | UNIP - 2016
 > 
-### :earth_americas: Idioma 
+### Idioma 
 > Inglês: Excelente compreensão da língua, tanto na audição quanto na leitura.
 
-### :dart: Objetivo
+### Objetivo
 > Atuar na área de desenvolvimento web. Possuo curiosidade e impeto para aprender e buscar soluções.
 
-### :rocket: Meus projetos
+### Meus projetos
 > Comprometido em ampliar minha lista de projetos realizados.
 
 | DATA        | CLIENTE         | URL                                              |
@@ -32,7 +32,7 @@ Desenvolvedor Web / Designer Gráfico</p>
 
   
 <details>
-<summary>:books: Cursos </summary>
+<summary> Cursos </summary>
    
 | CONCLUÍDOS                                                 | URL                                                                                 | CARGA HORÁRIA |
 | :---                                                       |    :----:                                                                           |    :----:     |
@@ -50,7 +50,7 @@ Desenvolvedor Web / Designer Gráfico</p>
 </details>
 
 <details>
-  <summary>🌱 Aprendendo</summary>
+  <summary>Aprendendo</summary>
   <p>Estou trabalhando para ampliar minha lista de projetos realizados.</p>
 
 | CURSANDO                                                           | URL                                                                   | CARGA HORÁRIA |
@@ -62,7 +62,7 @@ Desenvolvedor Web / Designer Gráfico</p>
 </details>
 
 <details>
-  <summary>:floppy_disk: Exercícios</summary>
+  <summary>Exercícios</summary>
   <p>
           Realizo atividades de forma regular para ajudar a fixar a matéria.
   </p>
@@ -74,7 +74,7 @@ Desenvolvedor Web / Designer Gráfico</p>
 
 </details>
 
-### :art: Competências
+### Competências
 <div style="display: inline_block">
  <img align="center" alt="Adobe Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">&nbsp
  <img align="center" alt="Adobe Illustrator" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg">&nbsp
@@ -89,7 +89,7 @@ Desenvolvedor Web / Designer Gráfico</p>
  <img align="center" alt="Java Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
-### :iphone: Contato
+### Contato
 
 <div>
    <a href="https://www.linkedin.com/in/croner/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
