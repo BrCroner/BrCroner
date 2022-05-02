@@ -11,19 +11,19 @@ Desenvolvedor Web / Designer Gráfico</p>
 </div>
 
 ## Sobre mim
-> Me chamo **Croner**! Sou desenvolvedor web e designer gráfico. Atualmente trabalho na área de suporte da Câmara dos Deputados.
+Me chamo **Croner**! Sou desenvolvedor web e designer gráfico. Atualmente trabalho na área de suporte da Câmara dos Deputados.
 
 ### Formação
-> Gestão da Tecnologia da Informação | UNIP - 2016
-> 
+Gestão da Tecnologia da Informação | UNIP - 2016
+ 
 ### Idioma 
-> Inglês: Excelente compreensão da língua, tanto na audição quanto na leitura.
+Inglês: Excelente compreensão da língua, tanto na audição quanto na leitura.
 
 ### Objetivo
-> Atuar na área de desenvolvimento web. Possuo curiosidade e impeto para aprender e buscar soluções.
+Atuar na área de desenvolvimento web. Possuo curiosidade e impeto para aprender e buscar soluções.
 
 ### Meus projetos
-> Comprometido em ampliar minha lista de projetos realizados.
+Comprometido em ampliar minha lista de projetos realizados.
 
 | DATA        | CLIENTE         | URL                                              |
 | :---        |    :----:       |    :----:                                        |
