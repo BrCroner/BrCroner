@@ -55,8 +55,7 @@ Comprometido em ampliar minha lista de projetos realizados.
 
 | CURSANDO                                                           | URL                                                                   | CARGA HORÁRIA |
 | :---                                                               |    :----:                                                             |    :----:     |
-| Java Programming Masterclass covering Java 11 & Java 17            | https://www.udemy.com/course/java-the-complete-java-developer-course/ | 80 horas      |  
-| Java 2022 COMPLETO: Do Zero ao Profissional + Projetos!            | https://www.udemy.com/course/fundamentos-de-programacao-com-java/     | 77 horas      |  
+| NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)        | https://www.udemy.com/course/nodejs-the-complete-guide/               | 40 horas      |  
 | Understanding TypeScript - 2021 Edition - Maximilian Schwarzmüller | https://www.udemy.com/course/understanding-typescript                 | 15 horas      |
   
 </details>
@@ -81,12 +80,12 @@ Comprometido em ampliar minha lista de projetos realizados.
  <img align="center" alt="Adobe Xd" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg">&nbsp
  <img align="center" alt="HTML5 Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp
  <img align="center" alt="CSS3 Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp
+ <img align="center" alt="JavaScript Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp
  <img align="center" alt="Bootstrap Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">&nbsp
  <img align="center" alt="Sass Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">&nbsp  
- <img align="center" alt="JavaScript Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp
  <img align="center" alt="Vue.js Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">&nbsp
-  <img align="center" alt="TypeScript Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">&nbsp 
- <img align="center" alt="Java Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+ <img align="center" alt="Vue.js Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">&nbsp 
+  <img align="center" alt="TypeScript Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">&nbsp
 </div>
 
 ### Contato
