@@ -1,4 +1,4 @@
-<p align="center"><img display="block" width="300" height="94,1" src="https://user-images.githubusercontent.com/15062920/160258260-d3414fe1-6d2b-43fe-bdeb-dfa619124ab3.svg" pointer-events="none"></p>
+<p align="center"><img display="block" width="300" height="94,1" src="https://user-images.githubusercontent.com/15062920/168189887-423fac1e-9855-4562-a370-f2a5a2b4abad.svg" pointer-events="none"></p>
 
 <p align="center">Bruno <b>Croner</b> <br>
 Front-End / Full-Stack under construction...</p>
@@ -6,8 +6,8 @@ Front-End / Full-Stack under construction...</p>
 
 <div align="center">
   <a href="https://github.com/BrCroner">
- <img height="155em" src="https://github-readme-stats.vercel.app/api?username=brcroner&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brcroner&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+ <img height="155em" src="https://github-readme-stats.vercel.app/api?username=brcroner&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brcroner&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 ## Sobre mim
