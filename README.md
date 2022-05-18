@@ -66,11 +66,13 @@ Comprometido em ampliar minha lista de projetos realizados.
           Realizo atividades de forma regular para ajudar a fixar a matéria.
   </p>
 
-| FRAMEWORK   | PACOTES                          | DESCRIÇÃO             | URL                                                 |
-| :---        | :----:                           | :----:                | :----:                                              |
-| VUE.js      | axios, vue-router e json-server  | Lista de Tarefas      | https://github.com/BrCroner/vue-rotas               |
-| VUE.js      | vue-router                       | Jogo Monster Slayer   | https://github.com/BrCroner/monster-slayer          |
+| FRAMEWORK   | PACOTES                          | DESCRIÇÃO               | URL                                                 |
+| :---        | :----:                           | :----:                  | :----:                                              |
+| VUE.js      | axios, vue-router e json-server  | Lista de Tarefas        | https://github.com/BrCroner/vue-rotas               |
+| VUE.js      | vue-router                       | Jogo Monster Slayer     | https://github.com/BrCroner/monster-slayer          |
+| JavaScript  | demo-webcam-fun                  | Webcam pelo navegador   | https://github.com/BrCroner/demo-webcam-fun         |  
 
+  
 </details>
 
 ### Competências
