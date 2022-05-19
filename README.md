@@ -11,13 +11,15 @@ Front-End / Full-Stack under construction...</p>
 </div>
 
 ## Sobre mim
-Me chamo Bruno **Croner**! Sou desenvolvedor web e designer gráfico. Atualmente trabalho na área de suporte da Câmara dos Deputados.
+Me chamo Bruno **Croner**! Sou desenvolvedor web com ótimos fundamentos em UI/UX. Atualmente trabalho na área de suporte da Câmara dos Deputados.
 
 ### Formação
-Gestão da Tecnologia da Informação | UNIP - 2016
+Gestão da Tecnologia da Informação<br>
+UNIP - 2016
  
 ### Idioma 
-Inglês: Excelente compreensão da língua, tanto na audição quanto na leitura.
+Inglês<br>
+Excelente compreensão da língua, tanto na audição quanto na leitura.
 
 ### Objetivo
 Atuar na área de desenvolvimento web. Possuo curiosidade e impeto para aprender e buscar soluções.
@@ -62,9 +64,7 @@ Comprometido em ampliar minha lista de projetos realizados.
 
 <details>
   <summary>Exercícios</summary>
-  <p>
-          Realizo atividades de forma regular para ajudar a fixar a matéria.
-  </p>
+  <p>Realizo atividades de forma regular para ajudar a fixar a matéria.</p>
 
 | FRAMEWORK   | PACOTES                          | DESCRIÇÃO               | URL                                                 |
 | :---        | :----:                           | :----:                  | :----:                                              |
@@ -92,7 +92,6 @@ Comprometido em ampliar minha lista de projetos realizados.
  <img align="center" alt="Vite Icon" height="30" width="40" src="https://vitejs.dev/logo.svg">&nbsp 
  <img align="center" alt="Pinia Icon" height="30" width="40" src="https://pinia.vuejs.org/logo.svg">&nbsp 
  <img align="center" alt="Vue.js Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">&nbsp 
- 
 </div>
 
 ### Contato
