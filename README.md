@@ -90,7 +90,7 @@ Comprometido em ampliar minha lista de projetos realizados.
  <img align="center" alt="Sass Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">&nbsp  
  <img align="center" alt="Vue.js Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">&nbsp
  <img align="center" alt="Vite Icon" height="30" width="40" src="https://vitejs.dev/logo.svg">&nbsp 
- <img align="center" alt="Vite Icon" height="30" width="40" src="https://pinia.vuejs.org/logo.svg">&nbsp 
+ <img align="center" alt="Pinia Icon" height="30" width="40" src="https://pinia.vuejs.org/logo.svg">&nbsp 
  <img align="center" alt="Vue.js Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">&nbsp 
  
 </div>
