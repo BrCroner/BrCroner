@@ -82,7 +82,8 @@ Comprometido em ampliar minha lista de projetos realizados.
  <img align="center" alt="Adobe Xd" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg">&nbsp
  <img align="center" alt="HTML5 Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp
  <img align="center" alt="CSS3 Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp
- <img align="center" alt="JavaScript Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="JavaScript Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp
+  <img align="center" alt="TypeScript Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">&nbsp
   </div><br>
   <div style="display: inline_block">
  <img align="center" alt="Bootstrap Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">&nbsp
@@ -91,8 +92,7 @@ Comprometido em ampliar minha lista de projetos realizados.
  <img align="center" alt="Vite Icon" height="30" width="40" src="https://vitejs.dev/logo.svg">&nbsp 
  <img align="center" alt="Vite Icon" height="30" width="40" src="https://pinia.vuejs.org/logo.svg">&nbsp 
  <img align="center" alt="Vue.js Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">&nbsp 
- <!-- <img align="center" alt="TypeScript Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> -->
-    &nbsp
+ 
 </div>
 
 ### Contato
