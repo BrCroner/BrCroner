@@ -95,7 +95,8 @@ Comprometido em ampliar minha lista de projetos realizados.
   <img align="center" alt="Vite Icon" height="30" width="40" src="https://vitejs.dev/logo.svg">&nbsp 
   <img align="center" alt="Pinia Icon" height="30" width="40" src="https://pinia.vuejs.org/logo.svg">&nbsp 
   <img align="center" alt="Node.js Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">&nbsp 
-  <img align="center" alt="MongoDB Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">&nbsp    
+  <img align="center" alt="MongoDB Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">&nbsp
+  <!-- <img align="center" alt="Three.js Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg">&nbsp -->
   
 </div><br>
 
