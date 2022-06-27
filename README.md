@@ -100,6 +100,7 @@ Comprometido em ampliar minha lista de projetos realizados.
 </div><br>
   
 <div style="display: inline_block">
+ <!-- <img align="center" alt="Deno Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/denojs/denojs-original.svg">&nbsp -->
   <!-- <img align="center" alt="Three.js Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg">&nbsp -->
   
 </div><br>
