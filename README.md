@@ -34,31 +34,32 @@ Comprometido em ampliar minha lista de projetos realizados.
 
   
 <details>
-<summary> Cursos </summary>
+<summary> Courses Completed </summary>
    
-| CONCLUÍDOS                                                 | URL                                                                                 | CARGA HORÁRIA |
-| :---                                                       |    :----:                                                                           |    :----:     |
-| Vue - The Complete Guide (incl. Router & Composition API)  | https://www.udemy.com/course/vuejs-2-the-complete-guide/                            | 32 horas      |
-| Curso SQL Completo                                         | https://www.softblue.com.br/                                                        | 20 horas      |
-| Curso Análise Orientada a Objetos                          | https://www.softblue.com.br/                                                        | 20 horas      |
-| Curso Lógica de Programação                                | https://www.softblue.com.br/                                                        | 20 horas      |
-| Advanced CSS and Sass: Flexbox, Grid, Animations and More! | https://www.udemy.com/course/advanced-css-and-sass/                                 | 28 horas      |
-| The Modern JavaScript Bootcamp                             | https://www.udemy.com/course/modern-javascript                                      | 29,5 horas    |
-| Beginner JavaScript                                        | https://beginnerjavascript.com/                                                     | 15 horas      |
-| JavaScript30                                               | https://javascript30.com/                                                           | 15 horas      |
-| Git a Web Developer Job: Mastering the Modern Workflow     | https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow/ | 16 horas      |
-| HTML, CSS, Sass, UX/UI, Illustrator, SEO Tools, Logo       | https://teamtreehouse.com/brcroner                                                  | 40 horas      |
+| COURSES                                                                                                                                       | WORKLOAD |
+| :---                                                                                                                                          |   :----: |
+| [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](https://www.udemy.com/course/nodejs-the-complete-guide/)                        | 40h 31m  |
+| [Vue - The Complete Guide (incl. Router & Composition API)](https://www.udemy.com/course/vuejs-2-the-complete-guide/)                         | 32h      |
+| [Curso SQL Completo](https://www.softblue.com.br/)                                                                                            | 20h      |
+| [Curso Análise Orientada a Objetos](https://www.softblue.com.br/)                                                                             | 20h      |
+| [Curso Lógica de Programação](https://www.softblue.com.br/)                                                                                   | 20h      |
+| [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/)                             | 28h      |
+| [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript)                                                              | 29h 30m  |
+| [Beginner JavaScript](https://beginnerjavascript.com/)                                                                                        | 15h      |
+| [JavaScript30](https://javascript30.com/)                                                                                                     | 15h      |
+| [Git a Web Developer Job: Mastering the Modern Workflow](https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow/) | 16h      |
+| [HTML, CSS, Sass, UX/UI, Illustrator, SEO Tools, Logo](https://teamtreehouse.com/brcroner)                                                    | 40h      |
   
 </details>
 
 <details>
-  <summary>Aprendendo</summary>
+  <summary>Learning Now</summary>
   <p>Estou trabalhando para ampliar minha lista de projetos realizados.</p>
 
-| CURSANDO                                                           | URL                                                                   | CARGA HORÁRIA |
-| :---                                                               |    :----:                                                             |    :----:     |
-| NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)        | https://www.udemy.com/course/nodejs-the-complete-guide/               | 40 horas      |  
-| Understanding TypeScript - 2021 Edition - Maximilian Schwarzmüller | https://www.udemy.com/course/understanding-typescript                 | 15 horas      |
+| STUDYNG                                                                                             | WORKLOAD |
+| :---                                                                                                |  :----:  | 
+| [Understanding TypeScript - 2021 Edition](https://www.udemy.com/course/understanding-typescript)    | 15h      |
+| [Nuxt.js 2 - Vue.js on Steroids](https://www.udemy.com/course/nuxtjs-vuejs-on-steroids/)            | 6h       | 
   
 </details>
 
