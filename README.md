@@ -56,7 +56,7 @@ Comprometido em ampliar minha lista de projetos realizados.
   <summary>Learning Now</summary>
   <p>Estou trabalhando para ampliar minha lista de projetos realizados.</p>
 
-| STUDYNG                                                                                             | WORKLOAD |
+| COURSES                                                                                             | WORKLOAD |
 | :---                                                                                                |  :----:  | 
 | [Understanding TypeScript - 2021 Edition](https://www.udemy.com/course/understanding-typescript)    | 15h      |
 | [Nuxt.js 2 - Vue.js on Steroids](https://www.udemy.com/course/nuxtjs-vuejs-on-steroids/)            | 6h       | 
