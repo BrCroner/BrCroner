@@ -59,7 +59,9 @@ Comprometido em ampliar minha lista de projetos realizados.
 | COURSES                                                                                             | WORKLOAD |
 | :---                                                                                                |  :----:  | 
 | [Understanding TypeScript - 2021 Edition](https://www.udemy.com/course/understanding-typescript)    | 15h      |
-| [Nuxt.js 2 - Vue.js on Steroids](https://www.udemy.com/course/nuxtjs-vuejs-on-steroids/)            | 6h       | 
+| [Docker e Kubernetes](https://www.udemy.com/course/docker-kubernetes-2022/)                         | 23h 16m  |
+| [Nuxt.js 2 - Vue.js on Steroids](https://www.udemy.com/course/nuxtjs-vuejs-on-steroids/)            | 6h       |
+
   
 </details>
 
@@ -101,6 +103,8 @@ Comprometido em ampliar minha lista de projetos realizados.
 </div><br>
   
 <div style="display: inline_block">
+<img align="center" alt="Cocker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">&nbsp
+<img align="center" alt="Kubernets" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">&nbsp
  <!-- <img align="center" alt="Deno Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/denojs/denojs-original.svg">&nbsp -->
   <!-- <img align="center" alt="Three.js Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg">&nbsp -->
   
