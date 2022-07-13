@@ -1,7 +1,7 @@
 <p align="center"><img display="block" width="300" height="94,1" src="https://user-images.githubusercontent.com/15062920/168189887-423fac1e-9855-4562-a370-f2a5a2b4abad.svg" pointer-events="none"></p>
 
 <p align="center">Bruno <b>Croner</b> <br>
-Front-End / Full-Stack under construction...</p>
+Full Stack Developer | Vue / Node | MEVN Stack</p>
 <p align="center">  :construction:  [ <a href="www.croner.com.br" target="_blank">croner.com.br</a> ]  :construction: </p>
 
 <div align="center">
