@@ -21,7 +21,7 @@ UNIP - 2016
 English<br>
 Currently studying in busuu.com! I have excellent understanding of the language, both in listening and reading.
 
-### Objetivo
+### Objective
 I want to work in the area of web development. I have curiosity and impetus to learn and seek solutions.
 
 ### Meus projetos
