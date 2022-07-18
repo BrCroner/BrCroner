@@ -11,7 +11,7 @@ Full Stack Developer | Vue / Node | MEVN Stack</p>
 </div>
 
 ## About Me
-Me chamo Bruno **Croner**! Sou desenvolvedor web com ótimos fundamentos em UI/UX. Atualmente trabalho na área de suporte da Câmara dos Deputados.
+My name is Bruno **Croner**! I'm a web developer with great UI/UX fundamentals. Currently I work in the support area of the Chamber of Deputies in Brazil.
 
 ### Academic Degree
 Information Technology Management<br>
@@ -19,10 +19,10 @@ UNIP - 2016
  
 ### Language 
 English<br>
-Currently studying on [Busuu](https://www.busuu.com/)! I have excellent understanding of the language, both in listening and reading.
+Currently studying in busuu.com ! I have excellent understanding of the language, both in listening and reading.
 
 ### Objetivo
-Atuar na área de desenvolvimento web. Possuo curiosidade e impeto para aprender e buscar soluções.
+I want to work in the area of web development. I have curiosity and impetus to learn and seek solutions.
 
 ### Meus projetos
 Comprometido em ampliar minha lista de projetos realizados.
@@ -30,7 +30,7 @@ Comprometido em ampliar minha lista de projetos realizados.
 | DATA        | CLIENTE         | URL                                              |
 | :---        |    :----:       |    :----:                                        |
 | 2020        | BankOn          | https://github.com/BrCroner/BankOn               |
-| 2022        | Meu portfólio   | :construction: www.croner.com.br  :construction: |
+| 2022        | My portfolio    | :construction: www.croner.com.br  :construction: |
 
   
 <details>
