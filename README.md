@@ -10,16 +10,16 @@ Full Stack Developer | Vue / Node | MEVN Stack</p>
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brcroner&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
-## Sobre mim
+## About Me
 Me chamo Bruno **Croner**! Sou desenvolvedor web com ótimos fundamentos em UI/UX. Atualmente trabalho na área de suporte da Câmara dos Deputados.
 
-### Formação
-Gestão da Tecnologia da Informação<br>
+### Academic Degree
+Information Technology Management<br>
 UNIP - 2016
  
-### Idioma 
-Inglês<br>
-Excelente compreensão da língua, tanto na audição quanto na leitura.
+### Language 
+English<br>
+Currently studying on [Busuu](https://www.busuu.com/)! I have excellent understanding of the language, both in listening and reading.
 
 ### Objetivo
 Atuar na área de desenvolvimento web. Possuo curiosidade e impeto para aprender e buscar soluções.
@@ -54,7 +54,7 @@ Comprometido em ampliar minha lista de projetos realizados.
 
 <details>
   <summary>Learning Now</summary>
-  <p>Estou trabalhando para ampliar minha lista de projetos realizados.</p>
+  <p>Currently committed to expanding my list of completed projects.</p>
 
 | COURSES                                                                                             | WORKLOAD |
 | :---                                                                                                |  :----:  | 
@@ -66,8 +66,8 @@ Comprometido em ampliar minha lista de projetos realizados.
 </details>
 
 <details>
-  <summary>Exercícios</summary>
-  <p>Realizo atividades de forma regular para ajudar a fixar a matéria.</p>
+  <summary>Exercises</summary>
+  <p>I do activities on a regular basis to help fix the subject.</p>
 
 | FRAMEWORK   | PACOTES                          | DESCRIÇÃO               | URL                                                 |
 | :---        | :----:                           | :----:                  | :----:                                              |
@@ -78,7 +78,7 @@ Comprometido em ampliar minha lista de projetos realizados.
   
 </details>
 
-### Competências
+### Skills
 <div style="display: inline_block">
  <img align="center" alt="Adobe Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">&nbsp
  <img align="center" alt="Adobe Illustrator" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg">&nbsp
@@ -110,8 +110,7 @@ Comprometido em ampliar minha lista de projetos realizados.
 </div><br>
   
 
-### Contato
-
+### Contact
 <div>
    <a href="https://www.linkedin.com/in/croner/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/BrCroner" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
