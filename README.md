@@ -25,7 +25,7 @@ Currently studying in busuu.com! I have excellent understanding of the language,
 I want to work in the area of web development. I have curiosity and impetus to learn and seek solutions.
 
 ### Meus projetos
-Comprometido em ampliar minha lista de projetos realizados.
+Currently engaged in expanding my list of completed projects, such as my own website.
 
 | DATA        | CLIENTE         | URL                                              |
 | :---        |    :----:       |    :----:                                        |
