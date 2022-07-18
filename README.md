@@ -19,7 +19,7 @@ UNIP - 2016
  
 ### Language 
 English<br>
-Currently studying in busuu.com ! I have excellent understanding of the language, both in listening and reading.
+Currently studying in busuu.com! I have excellent understanding of the language, both in listening and reading.
 
 ### Objetivo
 I want to work in the area of web development. I have curiosity and impetus to learn and seek solutions.
