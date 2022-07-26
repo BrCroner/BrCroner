@@ -19,7 +19,7 @@ UNIP - 2016
  
 ### Language 
 English<br>
-Currently studying in busuu.com! I have excellent understanding of the language, both in listening and reading.
+I have excellent understanding of the language, both in listening and reading.
 
 ### Objective
 I want to work in the area of web development. I have curiosity and impetus to learn and seek solutions.
@@ -61,22 +61,20 @@ Currently engaged in expanding my list of completed projects, such as my own web
 | [Understanding TypeScript - 2021 Edition](https://www.udemy.com/course/understanding-typescript)    | 15h      |
 | [Docker e Kubernetes](https://www.udemy.com/course/docker-kubernetes-2022/)                         | 23h 16m  |
 | [Nuxt.js 2 - Vue.js on Steroids](https://www.udemy.com/course/nuxtjs-vuejs-on-steroids/)            | 6h       |
-
   
 </details>
 
-<details>
-  <summary>Exercises</summary>
-  <p>I do activities on a regular basis to help fix the subject.</p>
+<summary>Exercises</summary>
+<p>I do activities on a regular basis to help fix the subject.</p>
 
-| FRAMEWORK   | PACOTES                          | DESCRIÇÃO               | URL                                                 |
-| :---        | :----:                           | :----:                  | :----:                                              |
-| VUE.js      | axios, vue-router e json-server  | Lista de Tarefas        | https://github.com/BrCroner/vue-rotas               |
-| VUE.js      | vue-router                       | Jogo Monster Slayer     | https://github.com/BrCroner/monster-slayer          |
-| JavaScript  | demo-webcam-fun                  | Webcam pelo navegador   | https://github.com/BrCroner/demo-webcam-fun         |  
+| FRAMEWORK  | PACKAGES                        | DESCRIPTION                                                                         |
+| :---       | :----:                          | :----:                                                                              |
+| JavaScript | demo-webcam-fun                 | Webcam pelo navegador - DEMO\ [GitHub](https://github.com/BrCroner/demo-webcam-fun) | 
+| VUE        | axios, vue-router e json-server | Lista de Tarefas - DEMO\ [GitHub](https://github.com/BrCroner/vue-rotas )           |
+| VUE        | vue-router                      | Jogo Monster Slayer - DEMO\ [GitHub](https://github.com/BrCroner/monster-slayer)    |
+| NUXT       | axios                           | Blog - DEMO\ [GitHub]                                                               |
+ 
 
-  
-</details>
 
 ### Skills
 <div style="display: inline_block">
