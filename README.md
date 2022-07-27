@@ -54,7 +54,7 @@ Currently engaged in expanding my list of completed projects, such as my own web
 
 <details>
   <summary>Learning Now</summary>
-  <p>Currently committed to expanding my list of completed projects.</p>
+  <p>Some courses I'm in the process of completing.</p>
 
 | COURSES                                                                                             | WORKLOAD |
 | :---                                                                                                |  :----:  | 
@@ -66,7 +66,7 @@ Currently engaged in expanding my list of completed projects, such as my own web
 
 <details>
   <summary>Read Books</summary>
-  <p>Currently committed to expanding my list of completed projects.</p>
+  &nbsp 
 
 | COVER | NAME                                                                                                                                       |
 | :---  | :---:                                                                                                                                      |
