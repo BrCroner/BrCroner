@@ -24,7 +24,7 @@ I have excellent understanding of the language, both in listening and reading.
 ### Objective
 I want to work in the area of web development. I have curiosity and impetus to learn and seek solutions.
 
-### Meus projetos
+### My projects
 Currently engaged in expanding my list of completed projects, such as my own website.
 
 | DATA        | CLIENTE         | URL                                              |
@@ -64,6 +64,19 @@ Currently engaged in expanding my list of completed projects, such as my own web
   
 </details>
 
+<details>
+  <summary>Read Books</summary>
+  <p>Currently committed to expanding my list of completed projects.</p>
+
+| COVER | NAME                                                                                                                                       |
+| :---  | :---:                                                                                                                                      |
+| <img align="center" alt="Node.js Design Patterns"  height="100" src="https://m.media-amazon.com/images/I/51kpPf4R0gL._SX260_.jpg"> | [Node.js Design Patterns](https://www.amazon.com.br/gp/product/B08CHMDKW2/ref=ppx_yo_dt_b_d_asin_title_o04?ie=UTF8&psc=1)                          |
+| <img align="center" alt="Construindo aplicações com NodeJS" height="100" src="https://m.media-amazon.com/images/I/41zCqRqel9S._SY346_.jpg"> | [Construindo aplicações com NodeJS](https://www.amazon.com.br/gp/product/B093HFTKMV/ref=ppx_yo_dt_b_d_asin_title_o06?ie=UTF8&psc=1)                |
+| <img align="center" alt="Aprendendo Node: Usando JavaScript no Servidor" height="100" src="https://images-na.ssl-images-amazon.com/images/I/51wX6cd1iiL._SX357_BO1,204,203,200_.jpg"> | [Aprendendo Node: Usando JavaScript no Servidor](https://www.amazon.com.br/gp/product/8575225405/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1) |
+| <img align="center" alt="Fullstack Vue: The Complete Guide to Vue.js" height="100" src="https://m.media-amazon.com/images/I/41fQXCFfU6L.jpg"> | [Fullstack Vue: The Complete Guide to Vue.js](https://www.amazon.com.br/gp/product/B07Y5N8KVQ/ref=ppx_yo_dt_b_d_asin_title_o01?ie=UTF8&psc=1) |
+
+</details>
+
 ### Exercises
 <p>I do activities on a regular basis for better understanding all content of the courses.</p>
 
@@ -74,7 +87,6 @@ Currently engaged in expanding my list of completed projects, such as my own web
 | VUE        | vue-router                      | Jogo Monster Slayer - Demo\ [GitHub](https://github.com/BrCroner/monster-slayer)    |
 | NUXT       | axios                           | Blog - Demo\ [GitHub]                                                               |
  
-
 
 ### Skills
 <div style="display: inline_block">
