@@ -35,7 +35,7 @@ Currently engaged in expanding my list of completed projects, such as my own web
 
   
 <details>
-<summary> Courses Completed </summary>
+  <summary> <b>Completed Courses</b> </summary>
    
 | COURSES                                                                                                                                       | WORKLOAD |
 | :---                                                                                                                                          |   :----: |
