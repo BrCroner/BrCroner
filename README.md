@@ -87,7 +87,7 @@ Currently engaged in expanding my list of completed projects, such as my own web
 | JavaScript | demo-webcam-fun                 | Webcam pelo navegador - Demo\ [GitHub](https://github.com/BrCroner/demo-webcam-fun) | 
 | VUE        | axios, vue-router e json-server | Lista de Tarefas - Demo\ [GitHub](https://github.com/BrCroner/vue-rotas )           |
 | VUE        | vue-router                      | Jogo Monster Slayer - Demo\ [GitHub](https://github.com/BrCroner/monster-slayer)    |
-| NUXT       | axios                           | Blog - Demo\ [GitHub]                                                               |
+| NUXT       | axios                           | Blog - Demo\ [GitHub](https://github.com/BrCroner/NUXT-Blog)                        |
  
 
 ### Skills
