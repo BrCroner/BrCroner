@@ -64,15 +64,15 @@ Currently engaged in expanding my list of completed projects, such as my own web
   
 </details>
 
-<summary>Exercises</summary>
-<p>I do activities on a regular basis to help fix the subject.</p>
+### Exercises
+<p>I do activities on a regular basis for better understanding all content of the courses.</p>
 
 | FRAMEWORK  | PACKAGES                        | DESCRIPTION                                                                         |
 | :---       | :----:                          | :----:                                                                              |
-| JavaScript | demo-webcam-fun                 | Webcam pelo navegador - DEMO\ [GitHub](https://github.com/BrCroner/demo-webcam-fun) | 
-| VUE        | axios, vue-router e json-server | Lista de Tarefas - DEMO\ [GitHub](https://github.com/BrCroner/vue-rotas )           |
-| VUE        | vue-router                      | Jogo Monster Slayer - DEMO\ [GitHub](https://github.com/BrCroner/monster-slayer)    |
-| NUXT       | axios                           | Blog - DEMO\ [GitHub]                                                               |
+| JavaScript | demo-webcam-fun                 | Webcam pelo navegador - Demo\ [GitHub](https://github.com/BrCroner/demo-webcam-fun) | 
+| VUE        | axios, vue-router e json-server | Lista de Tarefas - Demo\ [GitHub](https://github.com/BrCroner/vue-rotas )           |
+| VUE        | vue-router                      | Jogo Monster Slayer - Demo\ [GitHub](https://github.com/BrCroner/monster-slayer)    |
+| NUXT       | axios                           | Blog - Demo\ [GitHub]                                                               |
  
 
 
