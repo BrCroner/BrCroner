@@ -39,6 +39,7 @@ Currently engaged in expanding my list of completed projects, such as my own web
    
 | COURSES                                                                                                                                       | WORKLOAD |
 | :---                                                                                                                                          |   :----: |
+| [Nuxt.js 2 - Vue.js on Steroids](https://www.udemy.com/course/nuxtjs-vuejs-on-steroids/)                                                      | 6h       |
 | [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](https://www.udemy.com/course/nodejs-the-complete-guide/)                        | 40h 31m  |
 | [Vue - The Complete Guide (incl. Router & Composition API)](https://www.udemy.com/course/vuejs-2-the-complete-guide/)                         | 32h      |
 | [Curso SQL Completo](https://www.softblue.com.br/)                                                                                            | 20h      |
@@ -61,7 +62,7 @@ Currently engaged in expanding my list of completed projects, such as my own web
 | :---                                                                                                |  :----:  | 
 | [Understanding TypeScript - 2021 Edition](https://www.udemy.com/course/understanding-typescript)    | 15h      |
 | [Docker e Kubernetes](https://www.udemy.com/course/docker-kubernetes-2022/)                         | 23h 16m  |
-| [Nuxt.js 2 - Vue.js on Steroids](https://www.udemy.com/course/nuxtjs-vuejs-on-steroids/)            | 6h       |
+
   
 </details>
 
