@@ -2,8 +2,9 @@
 
 <div align="center"><img display="block" width="300" height="94,1" src="https://user-images.githubusercontent.com/15062920/168189887-423fac1e-9855-4562-a370-f2a5a2b4abad.svg" pointer-events="none"></div>&nbsp
 
-<p align="center">Bruno <b>Croner</b> <br>
+<div align="center"><p>Bruno <b>Croner</b> <br>
 Full Stack Developer | Vue / Node | MEVN Stack</p>
+</div>&nbsp
 <div align="center">
 :construction:  [ <a href="www.croner.com.br" target="_blank">croner.com.br</a> ]  :construction: <br>
 <a href="https://github.com/BrCroner/portfolio/blob/main/CV.pdf" target="_blank"> Curriculum vitæ (CV) <a> 
@@ -15,7 +16,7 @@ Full Stack Developer | Vue / Node | MEVN Stack</p>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brcroner&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
-## About Me
+### About Me
 My name is Bruno **Croner**! I'm a web developer with great UI/UX fundamentals. Currently I work in the IT Service Desk of the Chamber of Deputies in Brazil (the country I live).
 
 ### Academic Degree
