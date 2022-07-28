@@ -17,7 +17,7 @@ Full Stack Developer | Vue / Node | MEVN Stack</p>
 </div>
 
 ### About Me
-My name is Bruno **Croner**! I'm a web developer with great UI/UX fundamentals. Currently I work in the IT Service Desk of the Chamber of Deputies in Brazil (the country I live).
+My name is Bruno **Croner**! I'm a web developer with great UI/UX fundamentals. Currently I'm working in the IT Service Desk of the Chamber of Deputies in Brasil (the country I live).
 
 ### Academic Degree
 Information Technology Management<br>
