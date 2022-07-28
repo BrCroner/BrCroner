@@ -7,7 +7,7 @@ Full Stack Developer | Vue / Node | MEVN Stack</p>
 </div>&nbsp
 <div align="center">
 :construction:  [ <a href="www.croner.com.br" target="_blank">croner.com.br</a> ]  :construction: <br>
-<a href="https://github.com/BrCroner/portfolio/blob/main/CV.pdf" target="_blank"> Curriculum vitæ (CV) <a> 
+<a href="https://drive.google.com/file/d/1F4t7Ay2lsJJBs701aV6gXFl-i2VjbC7e/view?usp=sharing" target="_blank"> Curriculum vitæ (CV) <a> 
 </div>&nbsp
 
 <div align="center">
