@@ -1,9 +1,13 @@
-<p align="center"><img display="block" width="300" height="94,1" src="https://user-images.githubusercontent.com/15062920/168189887-423fac1e-9855-4562-a370-f2a5a2b4abad.svg" pointer-events="none"></p>
+<div></div>&nbsp
+
+<div align="center"><img display="block" width="300" height="94,1" src="https://user-images.githubusercontent.com/15062920/168189887-423fac1e-9855-4562-a370-f2a5a2b4abad.svg" pointer-events="none"></div>&nbsp
 
 <p align="center">Bruno <b>Croner</b> <br>
 Full Stack Developer | Vue / Node | MEVN Stack</p>
-<p align="center">  :construction:  [ <a href="www.croner.com.br" target="_blank">croner.com.br</a> ]  :construction: </p>
-<p align="center"> <a href="https://github.com/BrCroner/portfolio/blob/main/CV.pdf" target="_blank"> Curriculum vitæ (CV) <a> </p>
+<div align="center">
+:construction:  [ <a href="www.croner.com.br" target="_blank">croner.com.br</a> ]  :construction: <br>
+<a href="https://github.com/BrCroner/portfolio/blob/main/CV.pdf" target="_blank"> Curriculum vitæ (CV) <a> 
+</div>&nbsp
 
 <div align="center">
   <a href="https://github.com/BrCroner">
