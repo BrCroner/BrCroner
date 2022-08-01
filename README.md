@@ -109,12 +109,13 @@ Currently engaged in expanding my list of completed projects, such as my own web
  <img align="center" alt="JavaScript Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp 
   <img align="center" alt="TypeScript Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">&nbsp
   <img align="center" alt="Bootstrap Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">&nbsp
-  <img align="center" alt="Sass Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">&nbsp  
+  <img align="center" alt="Sass Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">&nbsp
+  <img align="center" alt="Bulma Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg">&nbsp
   <img align="center" alt="Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">&nbsp
-  <img align="center" alt="Vue.js Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">&nbsp
 </div><br>
   
 <div style="display: inline_block">
+  <img align="center" alt="Vue.js Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">&nbsp
   <img align="center" alt="Nuxt.js Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg">&nbsp
   <img align="center" alt="Vite Icon" height="30" width="40" src="https://vitejs.dev/logo.svg">&nbsp 
   <img align="center" alt="Pinia Icon" height="30" width="40" src="https://pinia.vuejs.org/logo.svg">&nbsp 
