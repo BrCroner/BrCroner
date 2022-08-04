@@ -118,14 +118,15 @@ Currently engaged in expanding my list of completed projects, such as my own web
 <div style="display: inline_block">
   <img align="center" alt="Vue.js Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">&nbsp
   <img align="center" alt="Nuxt.js Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg">&nbsp
+  <img align="center" alt="Vuetify Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuetify/vuetify-original.svg">&nbsp
   <img align="center" alt="Vite Icon" height="30" width="40" src="https://vitejs.dev/logo.svg">&nbsp 
   <img align="center" alt="Pinia Icon" height="30" width="40" src="https://pinia.vuejs.org/logo.svg">&nbsp 
   <img align="center" alt="Node.js Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">&nbsp 
-  <img align="center" alt="MongoDB Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">&nbsp
   <!--<img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">&nbsp -->
 </div><br>
   
 <div style="display: inline_block">
+  <img align="center" alt="MongoDB Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">&nbsp
   <!--<img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">&nbsp
   <img align="center" alt="Kubernets" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">&nbsp
   <img align="center" alt="Three.js Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg">&nbsp -->
