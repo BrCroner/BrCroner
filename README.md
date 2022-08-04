@@ -87,10 +87,11 @@ Currently engaged in expanding my list of completed projects, such as my own web
 ### Exercises
 <p>I do activities on a regular basis for better understanding all content of the courses.</p>
 
-| FRAMEWORK  | PACKAGES                        | DESCRIPTION                                                                                  |
-| :---       | :----:                          | :----:                                                                                       |
+| FRAMEWORK  | PACKAGES                        | DESCRIPTION                                                                                   |
+| :---       | :----:                          | :----:                                                                                        |
 | VUE3       | pinia, uuid e bulma             | Bloco de Notas - Demo \ [GitHub](https://github.com/BrCroner/vue3-composition-api-notes)      |
 | NUXT       | axios                           | Blog - Demo \ [GitHub](https://github.com/BrCroner/NUXT-Blog)                                 |
+| VUE3       | axios                           | Events - [Demo](https://vue-3-axios.surge.sh/) \ [GitHub](https://github.com/BrCroner/vue3-axios)
 | VUE        | axios, vue-router e json-server | Lista de Tarefas - Demo \ [GitHub](https://github.com/BrCroner/vue-rotas )                    |
 | VUE        | vue-router                      | Jogo Monster Slayer - Demo \ [GitHub](https://github.com/BrCroner/monster-slayer)             |
 
