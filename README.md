@@ -10,7 +10,7 @@ Full Stack Developer | Vue / Node | MEVN Stack</p>
 <a href="https://drive.google.com/file/d/1F4t7Ay2lsJJBs701aV6gXFl-i2VjbC7e/view?usp=sharing" target="_blank"> Curriculum vitæ (CV) <a> 
 </div>&nbsp
 
-![Snake animation](https://github.com/brcroner/brcroner/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 <div align="center">
   <a href="https://github.com/BrCroner">
