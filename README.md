@@ -12,9 +12,8 @@ Full Stack Developer | Vue / Node | MEVN Stack</p>
 
 - 🔭 Soon I will launch my own website
 - 🌱 I’m currently learning Typescript
-- 🥅 2022 Goals: Get a job in web development!
+- 🥅 2022 Goal: Get a job in web development!
 - ⚡ Fun fact: I love play videogames and read books
-
 
 ### About Me
 My name is Bruno **Croner**! I'm a web developer with great UI/UX fundamentals. Currently I'm working in the IT Service Desk of the Chamber of Deputies in Brasil (the country I live).
