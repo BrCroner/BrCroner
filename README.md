@@ -10,12 +10,11 @@ Full Stack Developer | Vue / Node | MEVN Stack</p>
 <a href="https://drive.google.com/file/d/1F4t7Ay2lsJJBs701aV6gXFl-i2VjbC7e/view?usp=sharing" target="_blank"> Curriculum vitæ (CV) <a> 
 </div>&nbsp
 
+- 🔭 Soon I will launch my own website
+- 🌱 I’m currently learning Typescript
+- 🥅 2022 Goals: Get a job in web development!
+- ⚡ Fun fact: I love play videogames and read books
 
-<div align="center">
-  <a href="https://github.com/BrCroner">
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brcroner&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brcroner&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
 
 ### About Me
 My name is Bruno **Croner**! I'm a web developer with great UI/UX fundamentals. Currently I'm working in the IT Service Desk of the Chamber of Deputies in Brasil (the country I live).
@@ -78,7 +77,6 @@ Currently engaged in expanding my list of completed projects, such as my own web
 
 | COVER | NAME                                                                                                                                       |
 | :---  | :---:                                                                                                                                      |
-| <img align="center" alt="Node.js Design Patterns"  height="100" src="https://m.media-amazon.com/images/I/51kpPf4R0gL._SX260_.jpg"> | [Node.js Design Patterns](https://www.amazon.com.br/gp/product/B08CHMDKW2/ref=ppx_yo_dt_b_d_asin_title_o04?ie=UTF8&psc=1)                          |
 | <img align="center" alt="Construindo aplicações com NodeJS" height="100" src="https://m.media-amazon.com/images/I/41zCqRqel9S._SY346_.jpg"> | [Construindo aplicações com NodeJS](https://www.amazon.com.br/gp/product/B093HFTKMV/ref=ppx_yo_dt_b_d_asin_title_o06?ie=UTF8&psc=1)                |
 | <img align="center" alt="Aprendendo Node: Usando JavaScript no Servidor" height="100" src="https://images-na.ssl-images-amazon.com/images/I/51wX6cd1iiL._SX357_BO1,204,203,200_.jpg"> | [Aprendendo Node: Usando JavaScript no Servidor](https://www.amazon.com.br/gp/product/8575225405/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1) |
 | <img align="center" alt="Fullstack Vue: The Complete Guide to Vue.js" height="100" src="https://m.media-amazon.com/images/I/41fQXCFfU6L.jpg"> | [Fullstack Vue: The Complete Guide to Vue.js](https://www.amazon.com.br/gp/product/B07Y5N8KVQ/ref=ppx_yo_dt_b_d_asin_title_o01?ie=UTF8&psc=1) |
