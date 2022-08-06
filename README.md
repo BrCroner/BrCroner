@@ -46,7 +46,7 @@ Full Stack Developer | Vue / Node | MEVN Stack</p>
   <a href="https://github.com/BrCroner">
  <img height="152em" src="https://github-readme-stats.vercel.app/api?username=brcroner&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/></a>
   <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brcroner&layout=compact&langs_count=7&theme=midnight-purple"/><br>
- </div><br>
+ </div>
   
   
 <h1></h1>
