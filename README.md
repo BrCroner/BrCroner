@@ -5,19 +5,8 @@
 <div align="center"><p>Bruno <b>Croner</b> <br>
 Full Stack Developer | Vue / Node | MEVN Stack</p>
 </div>&nbsp
-<div align="center">
-:construction:  [ <a href="www.croner.com.br" target="_blank">croner.com.br</a> ]  :construction: <br>
-<a href="https://drive.google.com/file/d/1F4t7Ay2lsJJBs701aV6gXFl-i2VjbC7e/view?usp=sharing" target="_blank"> Curriculum vitæ (CV) <a>
-
-</div>&nbsp
 
 <div align="center">
-  <a href="https://github.com/BrCroner">
- <img height="152em" src="https://github-readme-stats.vercel.app/api?username=brcroner&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/></a>
-  <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brcroner&layout=compact&langs_count=7&theme=midnight-purple"/><br>
-  <br>
-  
-  <div align="center">
     <img alt="Adobe Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">&nbsp
     <img alt="Adobe Illustrator" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg">&nbsp
     <img alt="Adobe Xd" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg">&nbsp
@@ -25,28 +14,50 @@ Full Stack Developer | Vue / Node | MEVN Stack</p>
     <img alt="HTML5 Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp
     <img alt="CSS3 Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp
     <img alt="JavaScript Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp 
+    <br> 
+   </div><br>
+   
+   <div align="center">
     <img alt="TypeScript Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">&nbsp
     <img alt="Bootstrap Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">&nbsp
     <img alt="Sass Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">&nbsp
-    <br> 
-   </div><br>
-   <div align="center>
-    <img alt="Bulma Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg">
     <img alt="Bulma Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg">
     <img alt="Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">&nbsp
     <img alt="Vue.js Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">&nbsp
     <img alt="Nuxt.js Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg">&nbsp
+   </div><br>
+   
+   <div align="center">
     <img alt="Vuetify Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuetify/vuetify-original.svg">&nbsp
     <img alt="Vite Icon" height="30" width="40" src="https://vitejs.dev/logo.svg">&nbsp 
     <img alt="Pinia Icon" height="30" width="40" src="https://pinia.vuejs.org/logo.svg">&nbsp 
     <img alt="Node.js Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">&nbsp
     <img alt="MongoDB Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">&nbsp<br> 
    </div><br>
+   
 </div>
+
+<div align="center">
+:construction:  [ <a href="www.croner.com.br" target="_blank">croner.com.br</a> ]  :construction: <br>
+<a href="https://drive.google.com/file/d/1F4t7Ay2lsJJBs701aV6gXFl-i2VjbC7e/view?usp=sharing" target="_blank"> Curriculum vitæ (CV) <a>
+</div>&nbsp
+
+<div align="center">
+  <a href="https://github.com/BrCroner">
+ <img height="152em" src="https://github-readme-stats.vercel.app/api?username=brcroner&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/></a>
+  <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brcroner&layout=compact&langs_count=7&theme=midnight-purple"/><br>
+ </div><br>
+  
+  
 <h1></h1>
 
 ### About Me
 My name is Bruno **Croner**! I'm a web developer with great UI/UX fundamentals. Currently I'm working in the IT Service Desk of the Chamber of Deputies in Brasil (the country I live).
+
+- 🔭 Soon I will launch my own website
+- 🌱 I’m currently learning Typescript
+- 🥅 2022 Goal: Get a job in web development!
+- ⚡ Fun fact: I love play videogames and read books<br>
 
 ### Academic Degree
 Information Technology Management<br>
@@ -123,12 +134,6 @@ Currently engaged in expanding my list of completed projects, such as my own web
 | VUE        | axios, vue-router e json-server | Lista de Tarefas - Demo \ [GitHub](https://github.com/BrCroner/vue-rotas )                    |
 | VUE        | vue-router                      | Jogo Monster Slayer - Demo \ [GitHub](https://github.com/BrCroner/monster-slayer)             |
 
-
-- 🔭 Soon I will launch my own website
-- 🌱 I’m currently learning Typescript
-- 🥅 2022 Goal: Get a job in web development!
-- ⚡ Fun fact: I love play videogames and read books<br>
-  
 
 ### Contact
 <div>
