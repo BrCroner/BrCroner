@@ -128,7 +128,8 @@ Currently engaged in expanding my list of completed projects, such as my own web
 
 | FRAMEWORK  | PACKAGES                        | DESCRIPTION                                                                                   |
 | :---       | :----:                          | :----:                                                                                        |
-| VUE3       | pinia, uuid e bulma             | Bloco de Notas - Em breve... - Demo \ [GitHub](https://github.com/BrCroner/vue3-composition-api-notes)      |
+| VUE3       | pinia, uuid e bulma             | Bloco de Notas - Em breve... - Demo \ [GitHub](https://github.com/BrCroner/vue3-composition-api-notes) |
+| Vuetify    | vuetify, vue-router             | Login e Dashboard - [Demo](https://vuetify-testing-layout.surge.sh/) \ [GitHub](https://github.com/BrCroner/vuetify-layout) |
 | NUXT       | axios                           | Blog - [Demo](https://croner-nuxt-blog.surge.sh/) \ [GitHub](https://github.com/BrCroner/NUXT-Blog)                                 |
 | VUE3       | axios                           | Events - [Demo](https://vue-3-axios.surge.sh/) \ [GitHub](https://github.com/BrCroner/vue3-axios)
 | VUE        | axios, vue-router e json-server | Lista de Tarefas - Demo \ [GitHub](https://github.com/BrCroner/vue-rotas )                    |
