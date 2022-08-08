@@ -135,7 +135,7 @@ Currently engaged in expanding my list of completed projects, such as my own web
 | VUE        | axios, vue-router e json-server | Lista de Tarefas - Demo \ [GitHub](https://github.com/BrCroner/vue-rotas )                    |
 <!-- | VUE        | vue-router                      | Jogo Monster Slayer - Demo \ [GitHub](https://github.com/BrCroner/monster-slayer)             | -->
 
-![Snake animation](https://github.com/BrCroner)
+![Snake animation](https://github.com/brcroner/brcroner/blob/output/github-contribution-grid-snake.svg)
 
 ### Contact
 <div>
