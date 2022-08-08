@@ -44,8 +44,8 @@ Full Stack Developer | Vue / Node | MEVN Stack</p>
 
 <div align="center">
   <a href="https://github.com/BrCroner">
- <img height="152em" src="https://github-readme-stats.vercel.app/api?username=brcroner&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/></a>
-  <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brcroner&layout=compact&langs_count=7&theme=shades-of-purple"/><br>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brcroner&show_icons=true&theme=shades-of-purple&hide=issues&hide_border=true&include_all_commits=true&count_private=true"/></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brcroner&layout=compact&langs_count=7&hide_border=true&theme=shades-of-purple"/><br>
  </div>
   
   
@@ -139,9 +139,7 @@ Currently engaged in expanding my list of completed projects, such as my own web
 ### Contact
 <div>
    <a href="https://www.linkedin.com/in/croner/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://twitter.com/BrCroner" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://web.whatsapp.com/send?phone=5561981167309&text&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href = "mailto:bruno.croner@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
 
 
