@@ -133,7 +133,7 @@ Currently engaged in expanding my list of completed projects, such as my own web
 | NUXT       | axios                           | Blog - [Demo](https://croner-nuxt-blog.surge.sh/) \ [GitHub](https://github.com/BrCroner/NUXT-Blog)                                 |
 | VUE3       | axios                           | Events - [Demo](https://vue-3-axios.surge.sh/) \ [GitHub](https://github.com/BrCroner/vue3-axios)
 | VUE        | axios, vue-router e json-server | Lista de Tarefas - Demo \ [GitHub](https://github.com/BrCroner/vue-rotas )                    |
-| VUE        | vue-router                      | Jogo Monster Slayer - Demo \ [GitHub](https://github.com/BrCroner/monster-slayer)             |
+<!-- | VUE        | vue-router                      | Jogo Monster Slayer - Demo \ [GitHub](https://github.com/BrCroner/monster-slayer)             | -->
 
 
 ### Contact
