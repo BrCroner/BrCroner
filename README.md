@@ -135,6 +135,7 @@ Currently engaged in expanding my list of completed projects, such as my own web
 | VUE        | axios, vue-router e json-server | Lista de Tarefas - Demo \ [GitHub](https://github.com/BrCroner/vue-rotas )                    |
 <!-- | VUE        | vue-router                      | Jogo Monster Slayer - Demo \ [GitHub](https://github.com/BrCroner/monster-slayer)             | -->
 
+![Snake animation](https://github.com/BrCroner)
 
 ### Contact
 <div>
@@ -143,7 +144,6 @@ Currently engaged in expanding my list of completed projects, such as my own web
     <a href="https://www.instagram.com/brcroner/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://discordapp.com/users/kronner#0952" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/id/kronner" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
-
 </div>
 
 
