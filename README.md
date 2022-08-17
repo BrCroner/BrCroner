@@ -56,7 +56,7 @@ Full Stack Developer | Vue / Node | MEVN Stack</p>
 My name is Bruno **Croner**! I'm a web developer with great UI/UX fundamentals. Currently I'm working in the IT Service Desk of the Chamber of Deputies in Brasil (the country I live).
 
 - 🔭 Soon I will launch my own website
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning Java
 - 🥅 2022 Goal: Get a job in web development!
 - ⚡ Fun fact: I love play videogames and read books<br>
 
@@ -104,10 +104,10 @@ Currently engaged in expanding my list of completed projects, such as my own web
   <summary>Learning Now</summary>
   <p>Some courses I'm in the process of completing.</p>
 
-| COURSES                                                                                             | WORKLOAD |
-| :---                                                                                                |  :----:  | 
-| [Understanding TypeScript - 2021 Edition](https://www.udemy.com/course/understanding-typescript)    | 15h      |
-| [Docker e Kubernetes](https://www.udemy.com/course/docker-kubernetes-2022/)                         | 23h 16m  |
+| COURSES                                                                                                                          | WORKLOAD |
+| :---                                                                                                                             |  :----:  | 
+| [Java Programming Masterclass covering Java 11 & Java 17](https://www.udemy.com/course/java-the-complete-java-developer-course/) | 80h 23m  |
+
 
   
 </details>
