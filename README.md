@@ -33,8 +33,10 @@ Full Stack Developer | Vue / Node | MEVN Stack</p>
     <img alt="Vite Icon" height="30" width="40" src="https://vitejs.dev/logo.svg">&nbsp 
     <img alt="Pinia Icon" height="30" width="40" src="https://pinia.vuejs.org/logo.svg">&nbsp 
     <img alt="Node.js Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">&nbsp
+    <img alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">&nbsp
     <img alt="MongoDB Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">&nbsp
-    <img alt="Pug Icon" height="30" width="40" src="https://raw.githubusercontent.com/pugjs/pug-logo/61429fc45b5a411b83bdb5c99a61084d3054d1e6/SVG/pug-final-logo-_-colour-128.svg">&nbsp<br> 
+    <img alt="Pug Icon" height="30" width="40" src="https://raw.githubusercontent.com/pugjs/pug-logo/61429fc45b5a411b83bdb5c99a61084d3054d1e6/SVG/pug-final-logo-_-colour-128.svg">&nbsp
+    <br> 
    </div><br>
    
 </div>
