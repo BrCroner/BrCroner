@@ -80,6 +80,8 @@ Currently engaged in expanding my list of completed projects, such as my own web
 | :---        |    :----:       |    :----:                                        |
 | 2020        | BankOn          | https://github.com/BrCroner/BankOn               |
 | 2022        | My portfolio    | :construction: www.croner.com.br  :construction: |
+| 2022        | Tabela FIPE     | :construction: [Tabela FIPE](https://github.com/BrCroner/tabela-fipe)  :construction: |
+
 
   
 <details>
@@ -131,6 +133,8 @@ Currently engaged in expanding my list of completed projects, such as my own web
 
 | FRAMEWORK  | PACKAGES                        | DESCRIPTION                                                                                            |
 | :---       | :----:                          | :----:                                                                                                 |
+:construction: [Tabela FIPE](https://github.com/BrCroner/tabela-fipe)  :construction:
+| NODE + VUE |  bulma, axios, multer, express, sequelize  | :construction: [Tabela FIPE](https://github.com/BrCroner/tabela-fipe)  :construction: |
 | VUE3       | pinia, uuid e bulma             | Bloco de Notas - Em breve... - Demo \ [GitHub](https://github.com/BrCroner/vue3-composition-api-notes) |
 | Vuetify    | vuetify, vue-router  | Login e Dashboard - [Demo](https://vuetify-testing-layout.surge.sh/) \ [GitHub](https://github.com/BrCroner/vuetify-layout) |
 | NUXT       | axios                           | Blog - [Demo](https://croner-nuxt-blog.surge.sh/) \ [GitHub](https://github.com/BrCroner/NUXT-Blog)   |
