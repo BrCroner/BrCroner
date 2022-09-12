@@ -80,8 +80,6 @@ Currently engaged in expanding my list of completed projects, such as my own web
 | :---        |    :----:       |    :----:                                        |
 | 2020        | BankOn          | https://github.com/BrCroner/BankOn               |
 | 2022        | My portfolio    | :construction: www.croner.com.br  :construction: |
-| 2022        | Tabela FIPE     | :construction: [Tabela FIPE](https://github.com/BrCroner/tabela-fipe)  :construction: |
-
 
   
 <details>
