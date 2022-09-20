@@ -131,13 +131,13 @@ Currently engaged in expanding my list of completed projects, such as my own web
 
 | FRAMEWORK  | PACKAGES                        | DESCRIPTION                                                                                            |
 | :---       | :----:                          | :----:                                                                                                 |
-| NODE+ MySQL + VUE |  bulma, axios, multer, express, sequelize  |  [Tabela FIPE](https://github.com/BrCroner/tabela-FIPE)  |
-| VUE3       | pinia, uuid e bulma             | Bloco de Notas - Em breve... - Demo \ [GitHub](https://github.com/BrCroner/vue3-composition-api-notes) |
+| Node + MySQL + Vue |  bulma, axios, multer, express, sequelize  |  [Tabela FIPE](https://github.com/BrCroner/tabela-FIPE)  |
+| Vue 3       | pinia, uuid e bulma             | Bloco de Notas - Em breve... - Demo \ [GitHub](https://github.com/BrCroner/vue3-composition-api-notes) |
 | Vuetify    | vuetify, vue-router  | Login e Dashboard - [Demo](https://vuetify-testing-layout.surge.sh/) \ [GitHub](https://github.com/BrCroner/vuetify-layout) |
 | NUXT       | axios                           | Blog - [Demo](https://croner-nuxt-blog.surge.sh/) \ [GitHub](https://github.com/BrCroner/NUXT-Blog)   |
-| VUE3, Typescript| axios  | Eventos com Typescript - [Demo](https://vue3-events-typescript.surge.sh/) \ [GitHub](https://github.com/BrCroner/vue3-events/tree/typescript)    |
-| VUE        | axios, vue-router e json-server | Lista de Tarefas - Demo \ [GitHub](https://github.com/BrCroner/vue-rotas )                            |
-<!-- | VUE        | vue-router                      | Jogo Monster Slayer - Demo \ [GitHub](https://github.com/BrCroner/monster-slayer)             | -->
+| Vue 3, Typescript | axios  | Eventos com Typescript - [Demo](https://vue3-events-typescript.surge.sh/) \ [GitHub](https://github.com/BrCroner/vue3-events/tree/typescript)    |
+| Vue       | axios, vue-router e json-server | Lista de Tarefas - Demo \ [GitHub](https://github.com/BrCroner/vue-rotas )                            |
+<!-- | Vue        | vue-router                      | Jogo Monster Slayer - Demo \ [GitHub](https://github.com/BrCroner/monster-slayer)             | -->
 
 ![Snake animation](https://github.com/brcroner/brcroner/blob/output/github-contribution-grid-snake.svg)
 
