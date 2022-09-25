@@ -131,6 +131,7 @@ Currently engaged in expanding my list of completed projects, such as my own web
 
 | FRAMEWORK  | PACKAGES                        | DESCRIPTION                                                                                            |
 | :---       | :----:                          | :----:                                                                                                 |
+| Node + MongoDB + Vue |  vuetify, axios, multer, express | :construction: [Loja de livros](https://github.com/BrCroner/MENV-livros) :construction: |
 | Node + MySQL + Vue |  bulma, axios, multer, express, sequelize  |  [Tabela FIPE](https://github.com/BrCroner/tabela-FIPE)  |
 | Vue 3       | pinia, uuid e bulma             | Bloco de Notas - Em breve... - Demo \ [GitHub](https://github.com/BrCroner/vue3-composition-api-notes) |
 | Vuetify    | vuetify, vue-router  | Login e Dashboard - [Demo](https://vuetify-testing-layout.surge.sh/) \ [GitHub](https://github.com/BrCroner/vuetify-layout) |
