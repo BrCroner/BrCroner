@@ -7,20 +7,9 @@
 Full Stack Developer | Vue / Node | MEVN Stack</p>
 </div>&nbsp
 
-<div align="center">
-    <img alt="Node.js Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">&nbsp
-    <img alt="NestJS Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">&nbsp
-    <img alt="TypeScript Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">&nbsp
-    <img alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">&nbsp
-    <img alt="MongoDB Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">&nbsp
-    <img alt="Postgres Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">&nbsp   
-    <br> 
-   </div><br>
-   
    <div align="center">
     <img alt="Vue.js Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">&nbsp
     <img alt="Nuxt.js Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg">&nbsp
-    <img alt="Vuetify Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuetify/vuetify-original.svg">&nbsp
     <img alt="Vite Icon" height="30" width="40" src="https://vitejs.dev/logo.svg">&nbsp 
     <img alt="Pinia Icon" height="30" width="40" src="https://pinia.vuejs.org/logo.svg">&nbsp
    </div><br>
@@ -28,8 +17,19 @@ Full Stack Developer | Vue / Node | MEVN Stack</p>
    <div align="center">
     <img alt="Bootstrap Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">&nbsp
     <img alt="Sass Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">&nbsp
+    <img alt="Vuetify Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuetify/vuetify-original.svg">&nbsp
     <img alt="Bulma Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg">
     <img alt="Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">&nbsp
+    <br> 
+   </div><br>
+   
+   <div align="center">
+    <img alt="Node.js Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">&nbsp
+    <img alt="NestJS Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">&nbsp
+    <img alt="TypeScript Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">&nbsp
+    <img alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">&nbsp
+    <img alt="MongoDB Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">&nbsp
+    <img alt="Postgres Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">&nbsp   
     <br> 
    </div><br>
    
@@ -45,15 +45,14 @@ Full Stack Developer | Vue / Node | MEVN Stack</p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brcroner&layout=compact&langs_count=7&hide_border=true&theme=shades-of-purple"/><br> -->
  </div>
   
-  
 ##
 
 ### About Me
 My name is Bruno **Croner**! I'm a web developer with great UI/UX fundamentals. Currently I'm working in the IT Service Desk of the Chamber of Deputies in Brasil (the country I live).
 
 - 🔭 Soon I will launch my own website
-- 🌱 I’m currently learning Java
-- 🥅 2022 Goal: Get a job in web development!
+- 🌱 I’m currently learning React
+- 🥅 2023 Goal: Improve my knowledge (React, Angular, Three.js...)
 - ⚡ Fun fact: I love play videogames and read books<br>
 
 ### Academic Degree
@@ -81,6 +80,7 @@ Currently engaged in expanding my list of completed projects, such as my own web
    
 | COURSES                                                                                                                                       | WORKLOAD |
 | :---                                                                                                                                          |   :----: |
+| [NestJS - The Complete Developer's Guide](https://www.udemy.com/course/nuxtjs-vuejs-on-steroids/)                                             | 19h 30m  |
 | [Nuxt.js 2 - Vue.js on Steroids](https://www.udemy.com/course/nuxtjs-vuejs-on-steroids/)                                                      | 6h       |
 | [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](https://www.udemy.com/course/nodejs-the-complete-guide/)                        | 40h 31m  |
 | [Vue - The Complete Guide (incl. Router & Composition API)](https://www.udemy.com/course/vuejs-2-the-complete-guide/)                         | 32h      |
@@ -100,12 +100,11 @@ Currently engaged in expanding my list of completed projects, such as my own web
   <summary>Learning Now</summary>
   <p>Some courses I'm in the process of completing.</p>
 
-| COURSES                                                                                                                          | WORKLOAD |
-| :---                                                                                                                             |  :----:  | 
-| [Java Programming Masterclass covering Java 11 & Java 17](https://www.udemy.com/course/java-the-complete-java-developer-course/) | 80h 23m  |
+| COURSES                                                                                                                                      | WORKLOAD |
+| :---                                                                                                                                         |  :----:  | 
+| [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)            | 58h 43m  |
 
 
-  
 </details>
 
 <details>
