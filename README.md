@@ -1,6 +1,7 @@
-<div></div>&nbsp
+<div></div><br>&nbsp
 
-<div align="center"><img display="block" width="300" height="94,1" src="https://user-images.githubusercontent.com/15062920/168189887-423fac1e-9855-4562-a370-f2a5a2b4abad.svg" pointer-events="none"></div>&nbsp
+
+<div align="center"><img display="block" width="300" height="94,1" src="https://user-images.githubusercontent.com/15062920/214822601-c4d3d496-eddd-4857-bd7b-22fb061256fa.svg" pointer-events="none"></div>&nbsp
 
 <div align="center"><p>BRUNO <b>CRONER</b> <br>
 :construction:  [ <a href="www.croner.com.br" target="_blank">www.croner.com.br</a> ]  :construction: <br>
