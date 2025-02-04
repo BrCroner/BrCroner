@@ -68,9 +68,6 @@ UNIP - 2016
 English<br>
 I have excellent understanding of the language, both in listening and reading.
 
-### Objective
-I want to work in the area of web development, with focus in back-end. I have curiosity and impetus to learn and seek solutions.
-
 ### My projects
 Currently engaged in expanding my list of completed projects, such as my own website.
 
