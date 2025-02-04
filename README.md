@@ -20,13 +20,13 @@ Full Stack Developer | Vue / Node | MEVN Stack</p>
     <img alt="Sass Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">&nbsp
     <img alt="Vuetify Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuetify/vuetify-original.svg">&nbsp
     <img alt="Bulma Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg">
-    <img alt="Tailwind Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">&nbsp
+    <img alt="Tailwind Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original.svg">&nbsp
     <br> 
    </div><br>
    
    <div align="center">
     <img alt="Node.js Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">&nbsp
-    <img alt="NestJS Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">&nbsp
+    <img alt="NestJS Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nestjs/nestjs-original.svg">&nbsp
     <img alt="TypeScript Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">&nbsp
     <img alt="PostgreSQL Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">&nbsp 
     <img alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">&nbsp
