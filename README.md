@@ -49,12 +49,16 @@ Full Stack Developer | Vue / Node | MEVN Stack</p>
 ##
 
 ### About Me
-My name is Bruno **Croner**! I'm a web developer with great UI/UX fundamentals. Currently I'm working in the IT Service Desk of the Chamber of Deputies in Brasil (the country I live).
+My name is Bruno **Croner**! I'm a web developer with great UI/UX fundamentals. Currently I'm working as a senior developer of the Chamber of Deputies in Brasil (the country I live).
 
 - 🔭 Soon I will launch my own website
 - 🌱 I’m currently learning React
-- 🥅 2023 Goal: Improve my knowledge (React, Angular, Three.js...)
+- 🥅 2025 Goal: Improve my knowledge (Java, GraphQL, etc..) an update my Github
 - ⚡ Fun fact: I love play videogames and read books<br>
+
+### Postgraduate
+Lato Sensu Back End<br>
+Universidade Pitágoras Unopar Anhanguera - 2023
 
 ### Academic Degree
 Information Technology Management<br>
@@ -142,7 +146,6 @@ Currently engaged in expanding my list of completed projects, such as my own web
   <a href="https://web.whatsapp.com/send?phone=5561981167309&text&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/brcroner/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://discordapp.com/users/kronner#0952" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href="https://steamcommunity.com/id/kronner" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 </div>
 
 
