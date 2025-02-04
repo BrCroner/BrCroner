@@ -53,7 +53,7 @@ My name is Bruno **Croner**! I'm a web developer with great UI/UX fundamentals. 
 
 - 🔭 Soon I will launch my own website
 - 🌱 I’m currently learning React
-- 🥅 2025 Goal: Improve my knowledge (Java, GraphQL, etc..) an update my Github
+- 🥅 2025 Goal: Improve my knowledge (Java, GraphQL, etc..) and update my Github
 - ⚡ Fun fact: I love play videogames and read books<br>
 
 ### Postgraduate
