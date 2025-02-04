@@ -29,7 +29,7 @@ Full Stack Developer | Vue / Node | MEVN Stack</p>
     <img alt="NestJS Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nestjs/nestjs-original.svg">&nbsp
     <img alt="TypeScript Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">&nbsp
     <img alt="PostgreSQL Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">&nbsp 
-    <img alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">&nbsp
+    <img alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original.svg">&nbsp
     <img alt="MongoDB Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">&nbsp
     <br> 
    </div><br>
