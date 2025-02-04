@@ -20,7 +20,7 @@ Full Stack Developer | Vue / Node | MEVN Stack</p>
     <img alt="Sass Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">&nbsp
     <img alt="Vuetify Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuetify/vuetify-original.svg">&nbsp
     <img alt="Bulma Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg">
-    <img alt="Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">&nbsp
+    <img alt="Tailwind Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">&nbsp
     <br> 
    </div><br>
    
@@ -37,7 +37,7 @@ Full Stack Developer | Vue / Node | MEVN Stack</p>
 </div>
 
 <div align="center">
-<a href="https://drive.google.com/file/d/1F4t7Ay2lsJJBs701aV6gXFl-i2VjbC7e/view?usp=sharing" target="_blank"> Curriculum vitæ (CV) <a>
+<a href="#" target="_blank"> Curriculum vitæ (CV) <a>
 </div>&nbsp
 
 <div align="center">
