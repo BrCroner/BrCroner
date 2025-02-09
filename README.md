@@ -31,6 +31,7 @@ Full Stack Developer | Vue / Node | MEVN Stack</p>
     <img alt="PostgreSQL Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">&nbsp 
     <img alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original.svg">&nbsp
     <img alt="MongoDB Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">&nbsp
+    <img alt="Prisma Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/prisma/prisma-original.svg">&nbsp  
     <br> 
    </div><br>
    
