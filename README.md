@@ -4,7 +4,7 @@
 <div align="center"><img display="block" width="300" height="94,1" src="https://github.com/BrCroner/BrCroner/blob/680822ff2de99b9cdd1c4238c4decdb8d6b76833/logo-01.svg" pointer-events="none"></div>&nbsp
 
 <div align="center"><p>BRUNO <b>CRONER</b> <br>
-:construction:  [ <a href="www.croner.com.br" target="_blank">www.croner.com.br</a> ]  :construction: <br>
+:construction:  [ <a href="www.croner.com.br" target="_blank">https://www.croner.com.br</a> ]  :construction: <br>
 Full Stack Developer | Vue / Node | MEVN Stack</p>
 </div>&nbsp
 
@@ -54,7 +54,7 @@ My name is Bruno **Croner**! I'm a web developer with great UI/UX fundamentals. 
 
 - 🔭 Soon I will launch my own website
 - 🌱 I’m currently learning React
-- 🥅 2025 Goal: Improve my knowledge (Java, GraphQL, etc..) and update my Github
+- 🥅 2026 Goal: Improve my knowledge (Java, GraphQL, etc..) and update my Github
 - ⚡ Fun fact: I love play videogames and read books<br>
 
 ### Postgraduate
@@ -74,8 +74,7 @@ Currently engaged in expanding my list of completed projects, such as my own web
 
 | DATA        | CLIENTE         | URL                                              |
 | :---        |    :----:       |    :----:                                        |
-| 2020        | BankOn          | https://github.com/BrCroner/BankOn               |
-| 2022        | My portfolio    | :construction: www.croner.com.br  :construction: |
+| 2026        | My portfolio    | :construction: https://www.croner.com.br  :construction: |
 
   
 <details>
